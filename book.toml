@@ -2,3 +2,11 @@
 title = "ICT concepts"
 authors = ["Matthew Sherborne"]
 language = "en"
+
+[output.html]
+default-theme = "light"
+preferred-dark-theme = "ayu"
+git-repository-url = ""
+mathjax-support = true
+
+# [output.pdf]
